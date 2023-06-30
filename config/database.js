@@ -1,3 +1,4 @@
+
 const mysql = require('mysql');
 // buat konfigurasi koneksi
 const koneksi = mysql.createConnection({
